@@ -8,7 +8,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup, Bot
 from telegram.ext import Application, CommandHandler, MessageHandler, CallbackQueryHandler, filters, ContextTypes
 
 # ==================== CONFIGURATION ====================
-BOT_TOKEN = "8484496922:AAGnQUMwQvA7iTTTnp_Ovm0teaxjUeCwC8s"  # Apna token daalo
+BOT_TOKEN = "8233812855:AAGqeVF2tfot9N9rzqKBxpJJgx_UOifjhBY"  # Apna token daalo
 
 # SUPER ADMIN (SUDO) - Sirf ye owner hai
 SUDO_ID = 6089214006  # Tumhari ID
