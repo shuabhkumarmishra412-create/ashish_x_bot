@@ -11,16 +11,16 @@ from telegram.ext import Application, CommandHandler, MessageHandler, CallbackQu
 BOT_TOKEN = "8233812855:AAGqeVF2tfot9N9rzqKBxpJJgx_UOifjhBY"  # Apna token daalo
 
 # SUPER ADMIN (SUDO) - Sirf ye owner hai
-SUDO_ID = 6089214006  # Tumhari ID
+SUDO_ID = 8441236350  # Tumhari ID
 
 # SARE ADMIN IDs
-ADMIN_IDS = [6089214006, 8323739248, 6877796325, 8441236350, 8327866462, 8364503066]
+ADMIN_IDS = [8441236350]
 
 # Developer Username (SAHI SE FIX KAR DIYA)
 DEV_USERNAME = "@ll_YOUR_ASHISH_BRO_ll"  # Apna username yahan sahi se likho
 
 # Start image (sent with spoiler in /start and on every "found" message)
-START_IMAGE = "https://i.ibb.co/JW2GCVPx/image.jpg"
+START_IMAGE = "https://i.ibb.co/b5kLkPyg/image.jpg"
 
 # Auto-delete every bot message after this many seconds
 AUTO_DELETE_SECONDS = 120
@@ -30,7 +30,7 @@ GREET = [
     "<b>🌸 ʜʟᴏ ʙᴀʙʏ...</b>",
     "<b>✨ ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ...</b>",
     "<b>🌌 ᴛʜᴇ ᴍᴀɢɪᴄᴀʟ ᴡᴏʀʟᴅ...</b>",
-    "<b>🖤 ᴀsʜɪsʜ x ᴀɴɪᴍᴇ...</b>",
+    "<b>🖤 ᴍᴀᴅᴀʀᴀ x ᴀɴɪᴍᴇ...</b>",
     "<b>💫 ʟᴏᴀᴅɪɴɢ...</b>",
 ]
 
